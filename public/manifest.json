@@ -1,0 +1,13 @@
+{
+  "short_name": "Pranay's Podcasts",
+  "name": "Podcasts by Pranay",
+  "icons": [{
+      "src": "appicon.svg",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#26C6DA",
+  "background_color": "#ffffff"
+}
